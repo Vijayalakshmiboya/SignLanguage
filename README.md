@@ -36,7 +36,7 @@ To bridge the communication gap between hearing-impaired individuals and others 
 - **RNN:** Analyzes temporal gesture sequences  
 - **MediaPipe + OpenCV:** Handles real-time detection & video capture
 
-  <img width="1108" height="532" alt="image" src="https://github.com/user-attachments/assets/e4055275-1003-408f-97c3-7bb5f90260c0" />
+  <img width="1108" height="400" alt="image" src="https://github.com/user-attachments/assets/e4055275-1003-408f-97c3-7bb5f90260c0" />
 
 
 ---
@@ -47,7 +47,7 @@ To bridge the communication gap between hearing-impaired individuals and others 
 - 🧠 Used CNN for image recognition and RNN for sequential data learning  
 - 📈 Achieved **90%+ accuracy** under testing conditions
 
-  <img width="582" height="801" alt="image" src="https://github.com/user-attachments/assets/9f31e7ce-dc95-4ecd-bbbf-c0deb01a642c" />
+  <img width="582" height="500" alt="image" src="https://github.com/user-attachments/assets/9f31e7ce-dc95-4ecd-bbbf-c0deb01a642c" />
 
 
 ### Results
